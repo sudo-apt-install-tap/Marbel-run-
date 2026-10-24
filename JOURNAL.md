@@ -18,7 +18,7 @@
 2. [2026-10-17 – Made all the other essential stuff from the tutorial.](#2026-10-17-made-all-the-other-essential-stuff-from-the-tutor)
 3. [2026-10-18 – So, I did a lot of work yesterday and today morning.](#2026-10-18-so-i-did-a-lot-of-work-yesterday-and-today-mornin)
 4. [2026-10-18 – I made the second track and refined the old tracks and parts today.](#2026-10-18-i-made-the-second-track-and-refined-the-old-track)
-5. [2026-10-24 – # The finish line.](#2026-10-24-the-finish-line)
+5. [2026-10-24 – # I ADDDED THIS BY MISTAKE, I MENT TO DO THIS ON MY 3rd WEEK BUT I DID IT HERE. DEFLATE IF NEEDED](#2026-10-24-i-addded-this-by-mistake-i-ment-to-do-this-on-my-)
 
 ## Design
 
@@ -89,9 +89,11 @@ I also arranged all the files in the repo. I will push them soon enough.  The re
 
 ![image](https://halflife.hackclub-assets.com/sessions/CNJdyyJ4I8fzZ0Pr2VdvErZElnDPPMWi/e60ed357730f8a59155747a448039564195043b80e587e0b9250832dd749f7a3.png)
 
-### 2026-10-24 – # The finish line.
+### 2026-10-24 – # I ADDDED THIS BY MISTAKE, I MENT TO DO THIS ON MY 3rd WEEK BUT I DID IT HERE. DEFLATE IF NEEDED
 
 **0.02h**
+
+# I ADDDED THIS BY MISTAKE, I MENT TO DO THIS ON MY 3rd WEEK BUT I DID IT HERE. DEFLATE IF NEEDED
 
 # The finish line.
 
