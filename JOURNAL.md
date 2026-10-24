@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 18.5h | 5 |
+| Week 2 | Tier 1 | 14.52h | 5 |
 
 ## Contents
 
@@ -91,7 +91,7 @@ I also arranged all the files in the repo. I will push them soon enough.  The re
 
 ### 2026-10-24 – # The finish line.
 
-**4h**
+**0.02h**
 
 # The finish line.
 
