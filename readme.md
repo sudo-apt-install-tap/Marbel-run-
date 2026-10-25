@@ -12,8 +12,12 @@ This is a simple marbel run race thingie that I made for half life week two. Des
 ## Why?
 I wanted to do a well documented project rather than some obscure one that probly hasnt ever been made before. Also this made me step out of my very small comfort zone in CAD and made me learn new and useful tools.
 
-## How?
+## Print & Assembly Instructions: 
 All production files are in the repo, so if anyone needs to make one of these then they can easily print the ready made courses. Use tree supports to make the tracks stay properly oriented.
+
+Some parts in the directory are modular and named as such. These might be connected to each other with interlocking pieces to make YOUR own custom tracks.
+
+PLA works fine, though it really depends on the pieces you are printing. It might be hard to print, keep the speed slower than usual and make layers thin. also use tree supports to support the tracks during printing.
 
 ## Images:
 
@@ -32,3 +36,12 @@ All production files are in the repo, so if anyone needs to make one of these th
 <img width="621" height="463" alt="image" src="https://github.com/user-attachments/assets/44e2efbb-b6e7-4610-a8f5-bb82260f25af" />
 <img width="564" height="492" alt="image" src="https://github.com/user-attachments/assets/c82ae1b9-1d37-4411-8685-4d03fafc9334" />
 <img width="608" height="492" alt="image" src="https://github.com/user-attachments/assets/820e763d-806e-4167-9612-6fbd4ad761d4" />
+
+
+## BOM:
+
+| Item                    | Qty | Supplier               | Cost/item | Total Cost | Link |
+|-------------------------|----:|------------------------|----------:|-----------:|------|
+| Printing                | 1   | Print-legion Hackclub  | $25.00    | $25.00     | [Slack link](https://hackclub.slack.com/archives/C083P4FJM46/p1792348602654779) |
+| Estimated total shipping| 1   | —                      | —         | $5.00      | —    |
+| **Grand Total**         |     |                        |           | **$30.00** |      |
